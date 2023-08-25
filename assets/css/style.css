@@ -677,8 +677,8 @@ body {
     line-height: 24px;
     font-size: 14px;
   }
-  
-  /*--------------------------------------------------------------
+ 
+   /*--------------------------------------------------------------
   # Speakers Section
   --------------------------------------------------------------*/
   #speakers {
@@ -747,31 +747,33 @@ body {
     font-weight: 700;
     margin-bottom: 10px;
   }
-  
-  #speakers-details .details .social {
-    margin-bottom: 15px;
-  }
-  
-  #speakers-details .details .social a {
-    background: #e9edfb;
+
+  #speakers-details .details .third-edition {
     color: #112363;
-    line-height: 1;
-    display: inline-block;
-    text-align: center;
-    border-radius: 50%;
-    width: 36px;
-    height: 36px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
   }
+
   
   #speakers-details .details p {
     color: #112363;
     font-size: 15px;
     margin-bottom: 10px;
+    text-align: justify;
   }
-  
+
+  #speakers-details .details .third-edition1 {
+    color: #112363;
+    font-size: 13px;
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+
+  #speakers-details .details ol {
+    color: #112363;
+    font-size: 13px;
+  }
   /*--------------------------------------------------------------
   # Schedule Section
   --------------------------------------------------------------*/
